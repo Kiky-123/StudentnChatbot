@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic>=2
+numpy
+faiss-cpu
+rank-bm25
+sentence-transformers
+torch                     # CPU ok
+transformers
+pypdf
+beautifulsoup4
+trafilatura               # ekstrak HTML jadi teks rapi
+python-dotenv
+scikit-learn
